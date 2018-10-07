@@ -1,0 +1,3 @@
+git status
+git commit -m "addig a file" test.txt
+git push -u origin master

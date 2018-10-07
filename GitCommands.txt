@@ -1,3 +1,4 @@
-git status
-git commit -m "addig a file" test.txt
-git push -u origin master
+git add GitCommands.txt - to add a command
+git status - checks the status of all the files in the folder
+git commit -m "addig a file" GitCommands.txt - uploads the file
+git push -u origin master - pushes the file
